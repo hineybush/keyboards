@@ -1,5 +1,5 @@
 {
-  "name": "Nyaong75",
+  "name": "nyaong75",
   "vendorId": "0x3369",
   "productId": "0x0A75",
   "lighting": "qmk_backlight_rgblight",
@@ -15,7 +15,7 @@
       [
         "Bottom Row",
         "7U",
-        "6.25U",
+        "6.25U"
       ]
     ],
     "keymap": [
