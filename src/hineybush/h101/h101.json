@@ -2,7 +2,7 @@
   "name": "h101",
   "vendorId": "0x3369",
   "productId": "0xA101",
-  "lighting": "qmk_backlight_rgblight",
+  "lighting": "none",
   "matrix": {
     "rows": 6,
     "cols": 22
