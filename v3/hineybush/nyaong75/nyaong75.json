@@ -2,14 +2,9 @@
   "name": "nyaong75",
   "vendorId": "0x3369",
   "productId": "0x0A75",
-  "keycodes": ["via/keycodes", "via/qmk_lighting"],
   "menus": [
-    "via/keymap",
-    "via/layouts",
-    "via/macros",
-    "via/save_load",
-    "core/qmk_backlight",
-    "core/qmk_rgblight"
+    "qmk_backlight",
+    "qmk_rgblight"
   ],
   "matrix": {
     "rows": 6,
