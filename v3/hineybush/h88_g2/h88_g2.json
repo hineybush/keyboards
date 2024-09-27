@@ -10,7 +10,7 @@
     "qmk_lighting"
   ],
   "menus": [
-    "qmk_backlight"
+    "qmk_backlight_rgblight"
   ],
   "layouts": {
     "labels": [
